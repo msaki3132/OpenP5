@@ -7,7 +7,12 @@
 [-] cds
 [x] clothong - nanka warning ga deru
 [_] electronics
-[_] lastfm
+[x] lastfm
 [_] ml1m
-[_] movies
+[_] movies koreha ikeru
 [_] taobao
+
+
+beauty
+lastfm
+movies 
